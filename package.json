@@ -1,0 +1,17 @@
+{
+  "name": "backend-avanzado-27-a",
+  "version": "0.0.1",
+  "description": "estructura backend express con mongo",
+  "main": "server.js",
+  "type": "module", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "saludo_pan_pan": "echo Huevos manito xD"
+  },
+  "keywords": [],
+  "author": "Grizzielicious",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
